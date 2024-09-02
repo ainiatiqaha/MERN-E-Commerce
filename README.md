@@ -62,9 +62,9 @@ To run the application locally, follow these steps:
      ```
 
 2. **Start the Backend**:
-   - Navigate to the `server` directory:
+   - Navigate to the `backend` directory:
      ```bash
-     cd server
+     cd backend
      ```
    - Start the backend server using Nodemon:
      ```bash
