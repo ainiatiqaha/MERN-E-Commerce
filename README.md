@@ -30,7 +30,7 @@ After you cloned the repository do not start the application. To run the applica
 
 ```
     NODE_ENV = development
-    PORT = 5000
+    PORT = 5005
     MONGO_URI = mongodb+srv://<your uri from mongodb website>
 ```
 
@@ -53,3 +53,5 @@ After this you can run the project locally:
 - [Expressjs](https://expressjs.com)
 - [Mongoose](https://mongoosejs.com)
 - [Material UI](https://mui.com/)
+# MERN-E-Commerce
+# MERN-E-Commerce
